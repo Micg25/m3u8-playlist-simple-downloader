@@ -2,7 +2,7 @@ A simple python script that allows you to download the content of an m3u8 playli
 
 DEPENDENCIES:
 
-pip install aiohttp ffmpeg-python requests
+```pip install aiohttp ffmpeg-python requests```
 
 HOW TO USE IT:
 1. Download the .py file and add it in a folder
