@@ -1,6 +1,7 @@
 A simple python script that allows you to download the content of an m3u8 playlist. It's been made using asyncio and aiohttp allowing fast async network calls.
 
 DEPENDENCIES:
+
 pip install aiohttp ffmpeg-python requests
 
 HOW TO USE IT:
